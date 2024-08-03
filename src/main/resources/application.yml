@@ -1,0 +1,7 @@
+server:
+  port: 4500
+
+myAuthCodeTree:
+  authCode: "xyz458"
+myDevNameTree:
+  devName: "Erika"
